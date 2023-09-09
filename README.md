@@ -8,6 +8,9 @@ Author: Laurent Gaffie <laurent.gaffie@gmail.com >  https://g-laurent.blogspot.c
 ## Demo Video:
 [![Responder Demo](https://i.ytimg.com/vi/tTj6jpuy_aI/hqdefault.jpg)](https://youtu.be/tTj6jpuy_aI)
 
+## Guide
+
+Guide SMB Relay [here](https://www.securitylab.ru/analytics/442313.php)
 ## Intro ##
 
 Responder an LLMNR, NBT-NS and MDNS poisoner. It will answer to *specific* NBT-NS (NetBIOS Name Service) queries based on their name suffix (see: http://support.microsoft.com/kb/163409). By default, the tool will only answer to File Server Service request, which is for SMB.
